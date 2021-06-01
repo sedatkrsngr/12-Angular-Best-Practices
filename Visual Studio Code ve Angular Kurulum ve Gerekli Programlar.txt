@@ -1,5 +1,3 @@
-# 12-Angular-Best-Practices
-
 
 Gerekli extensionları indirmek için Vs Code ekranında solda Extensions butonu ile indirme ekranı gelir.
 
