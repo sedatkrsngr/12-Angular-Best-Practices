@@ -2,7 +2,7 @@
 Gerekli extensionları indirmek için Vs Code ekranında solda Extensions butonu ile indirme ekranı gelir.
 
 Web Development Essentials Extension Pack(Frontend tarafta gerekli extensionlara sahiptir. Chromeda debug etme,kod yazarken yanda ekranda anlık yansıma vs.
-)
+ )
 
 Angular 10 Snippets - TypeScript, Html, Angular Material, ngRx, RxJS & Flex Layout(Zamanla 11,12,13 olabilir ama bu şekilde adı mesela videoda angular 8'di 10 olmuş)
 Bootstrap 4, Font awesome 4, Font Awesome 5 Free & Pro snippets indiriyoruz
