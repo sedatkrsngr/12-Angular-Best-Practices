@@ -1,1 +1,9 @@
 <p>about works!</p>
+<div class="card" *ngFor="let comment of comments">
+  <div class="card-header">
+    {{comment.name}}
+  </div>
+</div>
+
+
+<!--<h1>{{comments | json}}</h1> böyle bir kullanımda gelen veriyi json biçiminde görürüz-->

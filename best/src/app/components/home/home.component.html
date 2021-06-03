@@ -1,1 +1,9 @@
 <p>home works!</p>
+<div class="card" *ngFor="let post of posts | async; trackBy : trackByFn">
+  <div class="card-header">
+    {{post.title}}
+  </div>
+</div>
+
+<!--<h1>{{posts | json}}</h1> böyle bir kullanımda gelen veriyi json biçiminde görürüz-->
+<!--trackBy ile yeni bir veri eklendiğinde tüm liste yeniden yüklenmek yerine sadece listeye veri eklenir-->
