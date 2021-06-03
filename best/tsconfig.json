@@ -5,8 +5,8 @@
     "baseUrl": "./",
     "paths":
     {
-      "jquery/*": ["node_modules/jquery"],//sonradan eklendi kısa adres
-      "bootstrap/*": ["node_modules/bootstrap"]
+      "jquery": ["node_modules/jquery"],//sonradan eklendi kısa adres
+      "bootstrap": ["node_modules/bootstrap"]
     },
     "outDir": "./dist/out-tsc",
     "forceConsistentCasingInFileNames": true,
