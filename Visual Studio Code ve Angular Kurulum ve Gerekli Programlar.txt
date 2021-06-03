@@ -24,6 +24,8 @@ javascripte dönderir.)
 --g global anlamında yine aynı
 --  tsc -v ile versiyon kontrolü yapılır
 
+--github ile çalışmak istiyorsak git uygulamasını indir, github hesabınla vs code giriş yap ve son olarak vscode->explorer->lone Repository diyerek github hesabında oluşturduğun
+--repositoryi seçip çalışmaya başla
 Tamamdır herşey kuruldu.
 
 Angular 2+ Proje Oluşturma
